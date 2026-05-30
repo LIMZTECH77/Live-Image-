@@ -1,0 +1,6 @@
+{
+  "name": "Live Social Animator",
+  "description": "Generate high-resolution social media images with dynamic animated effects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
